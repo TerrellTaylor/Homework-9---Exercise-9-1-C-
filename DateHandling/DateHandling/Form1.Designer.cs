@@ -28,106 +28,106 @@ partial class Form1
     /// </summary>
     private void InitializeComponent()
     {
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtFutureDate = new System.Windows.Forms.TextBox();
-            this.btnCalculateDays = new System.Windows.Forms.Button();
-            this.btnCalculateAge = new System.Windows.Forms.Button();
-            this.txtBirthDate = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.btnExit = new System.Windows.Forms.Button();
-            this.SuspendLayout();
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(21, 20);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(107, 15);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Enter a future date:";
-            // 
-            // txtFutureDate
-            // 
-            this.txtFutureDate.Location = new System.Drawing.Point(155, 18);
-            this.txtFutureDate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.txtFutureDate.Name = "txtFutureDate";
-            this.txtFutureDate.Size = new System.Drawing.Size(106, 23);
-            this.txtFutureDate.TabIndex = 1;
-            this.txtFutureDate.Text = "12/31/2026";
-            // 
-            // btnCalculateDays
-            // 
-            this.btnCalculateDays.Location = new System.Drawing.Point(283, 17);
-            this.btnCalculateDays.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.btnCalculateDays.Name = "btnCalculateDays";
-            this.btnCalculateDays.Size = new System.Drawing.Size(148, 23);
-            this.btnCalculateDays.TabIndex = 2;
-            this.btnCalculateDays.Text = "Calculate &Due Days ";
-            this.btnCalculateDays.UseVisualStyleBackColor = true;
-            this.btnCalculateDays.Click += new System.EventHandler(this.btnCalculateDays_Click);
-            // 
-            // btnCalculateAge
-            // 
-            this.btnCalculateAge.Location = new System.Drawing.Point(283, 50);
-            this.btnCalculateAge.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.btnCalculateAge.Name = "btnCalculateAge";
-            this.btnCalculateAge.Size = new System.Drawing.Size(148, 23);
-            this.btnCalculateAge.TabIndex = 5;
-            this.btnCalculateAge.Text = "Calculate &Age";
-            this.btnCalculateAge.UseVisualStyleBackColor = true;
-            this.btnCalculateAge.Click += new System.EventHandler(this.btnCalculateAge_Click);
-            // 
-            // txtBirthDate
-            // 
-            this.txtBirthDate.Location = new System.Drawing.Point(155, 51);
-            this.txtBirthDate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.txtBirthDate.Name = "txtBirthDate";
-            this.txtBirthDate.Size = new System.Drawing.Size(106, 23);
-            this.txtBirthDate.TabIndex = 4;
-            this.txtBirthDate.Text = "10/24/1952";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(21, 53);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(100, 15);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Enter a birth date:";
-            // 
-            // btnExit
-            // 
-            this.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnExit.Location = new System.Drawing.Point(283, 83);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(148, 23);
-            this.btnExit.TabIndex = 6;
-            this.btnExit.Text = "E&xit";
-            this.btnExit.UseVisualStyleBackColor = true;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.CancelButton = this.btnExit;
-            this.ClientSize = new System.Drawing.Size(469, 122);
-            this.Controls.Add(this.btnExit);
-            this.Controls.Add(this.btnCalculateAge);
-            this.Controls.Add(this.txtBirthDate);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.btnCalculateDays);
-            this.Controls.Add(this.txtFutureDate);
-            this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.Name = "Form1";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Date Handling";
-            this.ResumeLayout(false);
-            this.PerformLayout();
+        label1 = new Label();
+        txtFutureDate = new TextBox();
+        btnCalculateDays = new Button();
+        btnCalculateAge = new Button();
+        txtBirthDate = new TextBox();
+        label2 = new Label();
+        btnExit = new Button();
+        SuspendLayout();
+        // 
+        // label1
+        // 
+        label1.AutoSize = true;
+        label1.Location = new Point(21, 20);
+        label1.Margin = new Padding(2, 0, 2, 0);
+        label1.Name = "label1";
+        label1.Size = new Size(107, 15);
+        label1.TabIndex = 0;
+        label1.Text = "Enter a future date:";
+        // 
+        // txtFutureDate
+        // 
+        txtFutureDate.Location = new Point(155, 18);
+        txtFutureDate.Margin = new Padding(2);
+        txtFutureDate.Name = "txtFutureDate";
+        txtFutureDate.Size = new Size(106, 23);
+        txtFutureDate.TabIndex = 1;
+        txtFutureDate.Text = "12/31/2026";
+        // 
+        // btnCalculateDays
+        // 
+        btnCalculateDays.Location = new Point(283, 17);
+        btnCalculateDays.Margin = new Padding(2);
+        btnCalculateDays.Name = "btnCalculateDays";
+        btnCalculateDays.Size = new Size(148, 23);
+        btnCalculateDays.TabIndex = 2;
+        btnCalculateDays.Text = "Calculate &Due Days ";
+        btnCalculateDays.UseVisualStyleBackColor = true;
+        btnCalculateDays.Click += btnCalculateDays_Click;
+        // 
+        // btnCalculateAge
+        // 
+        btnCalculateAge.Location = new Point(283, 50);
+        btnCalculateAge.Margin = new Padding(2);
+        btnCalculateAge.Name = "btnCalculateAge";
+        btnCalculateAge.Size = new Size(148, 23);
+        btnCalculateAge.TabIndex = 5;
+        btnCalculateAge.Text = "Calculate &Age";
+        btnCalculateAge.UseVisualStyleBackColor = true;
+        btnCalculateAge.Click += btnCalculateAge_Click;
+        // 
+        // txtBirthDate
+        // 
+        txtBirthDate.Location = new Point(155, 51);
+        txtBirthDate.Margin = new Padding(2);
+        txtBirthDate.Name = "txtBirthDate";
+        txtBirthDate.Size = new Size(106, 23);
+        txtBirthDate.TabIndex = 4;
+        txtBirthDate.Text = "10/24/1952";
+        // 
+        // label2
+        // 
+        label2.AutoSize = true;
+        label2.Location = new Point(21, 53);
+        label2.Margin = new Padding(2, 0, 2, 0);
+        label2.Name = "label2";
+        label2.Size = new Size(100, 15);
+        label2.TabIndex = 3;
+        label2.Text = "Enter a birth date:";
+        // 
+        // btnExit
+        // 
+        btnExit.DialogResult = DialogResult.Cancel;
+        btnExit.Location = new Point(283, 83);
+        btnExit.Margin = new Padding(2);
+        btnExit.Name = "btnExit";
+        btnExit.Size = new Size(148, 23);
+        btnExit.TabIndex = 6;
+        btnExit.Text = "E&xit";
+        btnExit.UseVisualStyleBackColor = true;
+        btnExit.Click += btnExit_Click;
+        // 
+        // Form1
+        // 
+        AutoScaleDimensions = new SizeF(7F, 15F);
+        AutoScaleMode = AutoScaleMode.Font;
+        CancelButton = btnExit;
+        ClientSize = new Size(469, 122);
+        Controls.Add(btnExit);
+        Controls.Add(btnCalculateAge);
+        Controls.Add(txtBirthDate);
+        Controls.Add(label2);
+        Controls.Add(btnCalculateDays);
+        Controls.Add(txtFutureDate);
+        Controls.Add(label1);
+        Margin = new Padding(2);
+        Name = "Form1";
+        StartPosition = FormStartPosition.CenterScreen;
+        Text = "Date Handling";
+        ResumeLayout(false);
+        PerformLayout();
 
     }
 

@@ -1,0 +1,17 @@
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.exe
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.deps.json
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.runtimeconfig.json
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.dll
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.pdb
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.Form1.resources
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.csproj.GenerateResource.cache
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.AssemblyInfoInputs.cache
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.AssemblyInfo.cs
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.csproj.CoreCompileInputs.cache
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.sourcelink.json
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.dll
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\refint\DateHandling.dll
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.pdb
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.genruntimeconfig.cache
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 9\Homework 9\DateHandling\DateHandling\obj\Debug\net7.0-windows\ref\DateHandling.dll
